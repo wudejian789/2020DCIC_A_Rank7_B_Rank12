@@ -1,5 +1,6 @@
 # 2020DCIC-智慧海洋建设算法赛方案分享(初赛排名7,复赛排名12)
 
+> 比赛链接：[https://tianchi.aliyun.com/competition/entrance/231768/introduction](https://tianchi.aliyun.com/competition/entrance/231768/introduction)
 > 队伍名：抗毒救灾，成绩：初赛Rank7，复赛Rank12
 
 ## 1. 赛题简介
@@ -32,4 +33,4 @@
 
 最终A榜线上成绩为**0.9000**，排名7；B榜线上成绩为**0.8859**，排名12。
 
-代码等都在项目中，按照run.sh的执顺序就好(如果有数据的话)，欢迎一起交流学习！
+代码等都在项目中，按照run.sh的执顺序就好(如果有数据的话)，欢迎一起交流学习以及组我打比赛，QQ：793729558！
