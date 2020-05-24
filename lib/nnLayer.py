@@ -234,7 +234,7 @@ class FocalCrossEntropyLoss(nn.Module):
         if self.logit:
             Y_pre = F.softmax(Y_pre, dim=1)
         P = Y_pre[list(range(len(Y))), Y]
-        if self.weight != -1:
+        if self.weight.shape!=torch.Size([]):
             w = self.weight[Y]
         else:
             w = torch.tensor([1.0 for i in range(len(Y))], device=self.weight.device)
